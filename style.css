@@ -1,0 +1,70 @@
+#full-container {
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	padding-top; 15px;
+	padding-bottom: 15px;
+	margin-left: 25%;
+	margin-right: 25%;
+	box-shadow: 5px 10px 8px rgb(220, 220, 220);
+	border-radius: 16px;
+}
+
+#please-help {
+	font-family: "Times New Roman";
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+#heading-container {
+	padding-top: 15px;
+	font-family: "Times New Roman";
+	font-size: 20px;
+	color: rgb(169, 169, 169);
+}
+
+#buttons-container {
+	box-shadow: none;
+	text-align: left;
+	margin: fit-content;
+	font-family: "Times New Roman";
+	font-size: 18px;
+	padding-left: 25px;
+}
+
+p.error {
+	visibility: hidden;
+	margin: auto;
+	color: rgb(255, 0, 0);
+	font-family: "Times New Roman";
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+#unsub-button {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: "Times New Roman";
+	font-weight: bold;
+	background-color: rgb(20, 10, 230);
+	border: none;
+	border-radius: 50px;
+	color: rgb(255, 255, 255);
+	box-shadow: none;
+	font-size: 20px;
+}
+
+#unsubscribe-container {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+html {
+	background-color: rgb(240, 240, 240);
+	padding-top: 50px;
+}
